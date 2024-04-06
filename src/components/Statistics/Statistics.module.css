@@ -1,0 +1,12 @@
+.label {
+  text-transform: capitalize;
+}
+
+.item {
+  font-size: 36px;
+  color: #363636;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 10px;
+}
